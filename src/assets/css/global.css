@@ -1,0 +1,19 @@
+/* 全局样式表 */
+
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 0;
+    margin: 0;
+}
